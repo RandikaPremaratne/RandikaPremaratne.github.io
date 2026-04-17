@@ -10,5 +10,5 @@ skills:
   - SimulationXpress
   - Design for Manufacturing
 
-main-image: /project2.jpg
+main-image: /Design Validation & FEA Study of a Mechanical Scissor Jack Lifting Arm (Self Directed Learning Project)/Car Jack Lower Arm Max von Mises stress.PNG
 ---
