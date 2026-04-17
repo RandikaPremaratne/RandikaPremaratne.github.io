@@ -11,4 +11,4 @@ skills:
   - Assembly Modeling
   - Kinematics
 
-main-image: /Design Validation & FEA Study of a Mechanical Scissor Jack Lifting Arm (Self Directed Learning Project)/Car Jack Lower Arm Max von Mises stress.PNG
+main-image: /Mechanical Scissor Jack Assembly (Self Directed Learning Project)/Car Jack Isometric.PNG
